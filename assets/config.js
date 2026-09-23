@@ -5,7 +5,7 @@ window.LTS_CONFIG = {
   email: "lukaschare@gmail.com",
   phone: "+34 645 514 715",
   city: "Barcelona, Spain",
-  businessAddress: "REPLACE BEFORE DEPLOYMENT — current legally authorised professional address",
+  businessAddress: "Carrer XXXXX, XX, XXXXX Barcelona, Spain",
   domain: "lukastechsolutions.es",
   linkedin: "https://www.linkedin.com/in/junjun-lu-40b7a9113/",
   lastUpdated: "September 2026"
